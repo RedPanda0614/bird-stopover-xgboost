@@ -1,6 +1,8 @@
 ## 数据来源
 
-本研究数据来源开源数据集： https://doi.org/10.6084/m9.figshare.24438280，其收集于The United States National Weather Service, Federal Aviation Administration, and Air Force jointly run the Next Generation Radar (NEXRAD) network的雷达扫描数据，并针对候鸟迁徙问题做了特殊处理。其中每个样本点表示一个监测点所观测到的环境变量和候鸟停留密度。
+本研究数据来源开源数据集： https://doi.org/10.6084/m9.figshare.2443828
+
+其收集于The United States National Weather Service, Federal Aviation Administration, and Air Force jointly run the Next Generation Radar (NEXRAD) network的雷达扫描数据，并针对候鸟迁徙问题做了特殊处理。其中每个样本点表示一个监测点所观测到的环境变量和候鸟停留密度。
 
 > [!NOTE]
 >
